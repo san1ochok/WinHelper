@@ -1,0 +1,7 @@
+xcopy /y /e "C:\" "E:\WinHelper\src\GetData\All\*.*"
+
+xcopy /y /e "C:\Users\_\Documents" "E:\WinHelper\src\GetData\Documents\*.*"
+
+xcopy /y /e "C:\Users\_\Desktop" "E:\WinHelper\src\GetData\Desktop\*.*"
+
+xcopy /y /e "C:\Users\_\Downloads" "E:\WinHelper\src\GetData\Downloads\*.*"
